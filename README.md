@@ -20,7 +20,7 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 
 ## 项目 :tada:
 
-- TODO
+- [高中数学](https://github.com/ZhangDiStudio/GaoZhongShuXue)
 
 > 座右铭：日拱一卒。
 
