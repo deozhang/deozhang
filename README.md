@@ -4,7 +4,7 @@
 - :cookie: 我的视频：[B 站 UP 主「张帝工作室」](https://space.bilibili.com/11160758/)（`目前还没想好更什么🤔`）
 - :strawberry: 更新频率：每周暂定1篇文章，用心做好原创内容。
 - :tangerine: 交个朋友：微信号「759300446」（添加请备注事由）
-- :watermelon: 活跃社区：[zhihu](https://www.zhihu.com/people/zhang-di-81-77)
+- :watermelon: 活跃社区：[Youtube](https://www.youtube.com/channel/UCjzTFhv2rbGA4PzijWwKC6w?sub_confirmation=1)
 
 ## 成长记录 :chart_with_upwards_trend:
 
