@@ -11,9 +11,7 @@
 [:rocket: 2023 年の成长记录](https://github.com/users/zhangdistudio/projects/1)
 ## 2023 年目标 :dart:
 
-bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://space.bilibili.com/11160758/)
-
-<a href="https://space.bilibili.com/11160758"><img src="https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili%20fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D11160758" /></a> <a href="https://github.com/zhangdistudio"><img src="https://img.shields.io/github/stars/zhangdistudio?color=faf408&label=github%20stars&logo=github" /></a>
+bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://space.bilibili.com/11160758/)<a href="https://space.bilibili.com/11160758">
 <!--
 图标设计: https://shields.io/
 -->
